@@ -20,3 +20,5 @@ def join_nested_strings(src)
   end
   phrase.join(" ")
 end
+
+phrase
