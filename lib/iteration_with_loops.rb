@@ -21,4 +21,4 @@ def join_nested_strings(src)
   phrase.join(" ")
 end
 
-phrase
+join_nested_strings(src)
