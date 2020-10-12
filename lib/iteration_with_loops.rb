@@ -21,4 +21,4 @@ def join_nested_strings(src)
   phrase.join(" ")
 end
 
-p join_nested_strings(mixed_data)
+join_nested_strings(mixed_data)
